@@ -1,2 +1,2 @@
 # Basic_text_mining_project
-The report is in the end of the Jupyter Notebook.
+The report is at the end of the Jupyter Notebook.
